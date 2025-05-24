@@ -1,5 +1,7 @@
 //Write a program to find the minimum element in an array.
+
 public class question1 {
+
     public static void main(String[] args) {
         int[] array = {15, 3, 9, 20, -4, 8};
         if (array.length == 0) {
